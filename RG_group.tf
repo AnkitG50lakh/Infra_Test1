@@ -12,7 +12,7 @@ features {}
 }
 
 resource "azurerm_resource_group" "rg1" {
-  name ="rg_pipeline1"
+  name ="rg_pipeline2"
   location = "east us"
 
 }
